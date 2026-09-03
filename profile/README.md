@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sendbeam-io/.github/main/profile/assets/sendbeam-logo.png" alt="SendBeam" width="96" height="96">
-</p>
-
 <h1 align="center">SendBeam</h1>
 
 <p align="center"><strong>One email account for every site you run.</strong></p>

@@ -1,6 +1,6 @@
-<h1 align="center">SendBeam</h1>
+<h1 align="left">SendBeam</h1>
 
-<p align="center"><strong>One email account for every site you run.</strong></p>
+<p align="left"><strong>One email account for every site you run.</strong></p>
 
 Most email platforms are built for one brand with one list. If you run several small sites — a calculator, a
 directory, a couple of side projects, a handful of client brands — you end up with a separate account, a
